@@ -60,4 +60,4 @@ A Loja 1, que tem a média de frete mais alta, tem também a avaliação mais ba
 
 As Lojas 2 e 3 são o padrão de ouro: avaliações decentes, frete moderado e bom faturamento. Há muito equilíbrio entre as duas, o que nos deixa com as Lojas 1 e 4: A Loja 1, embora tenha o maior faturamento, acaba sendo a loja mais "instável", com a menor avaliação (abaixo de 4 estrelas) e de longe a maior média de frete. Já a Loja 4, embora tenha o menor faturamento, é definitivamente mais estável, possuindo o menor valor de frete e uma avaliação decente.
 
-Minha sugestão seria vender a Loja 1, que é a mais instável, e realizar pesquisas mais a fundo acerca da situação da Loja 4, e baseado em seus resultados, aplicar as estratégias de marketing e venda corretas à Loja 4, que tem o potencial de se aproximar ou até mesmo superar as outras.
+Minha sugestão seria vender a Loja 1, que é a mais instável, e realizar pesquisas mais a fundo acerca da situação da Loja 4, e baseado em seus resultados, aplicar as estratégias de marketing e venda corretas à Loja 4, que tem o potencial de se aproximar ou até mesmo superar as demais.
